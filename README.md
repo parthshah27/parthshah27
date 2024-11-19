@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **HoneySplash**
 
-- 🌱 I’m currently learning **NodeJS, Python and AWS**
+- 🌱 I’m currently learning **ReactJS and NextJS**
 
 - 💬 Ask me about **NodeJS,Python**
 
