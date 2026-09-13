@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I’m a backend developer with **6+ years of experience** building scalable, production-ready applications.
+I’m a backend developer with **7+ years of experience** building scalable, production-ready applications.
 
 I specialize in designing **robust APIs, cloud-based architectures, and backend systems** that are reliable, efficient, and easy to maintain.
 
@@ -30,7 +30,7 @@ I specialize in designing **robust APIs, cloud-based architectures, and backend 
 
 ## 🔥 Featured Work
 
-> ⚠️ Currently improving and adding production-grade backend projects focused on real-world use cases.
+> ⚠️ Building backend systems that explore real-world architecture, scalability, and reliability challenges.
 
 - 🚧 Scalable Node.js Backend APIs  
 - 🚧 File Upload System with Cloud Storage (R2/S3)  
@@ -40,9 +40,11 @@ I specialize in designing **robust APIs, cloud-based architectures, and backend 
 
 ## 📈 Current Focus
 
-- Improving frontend skills (React) to become more versatile  
-- Building **real-world backend + cloud projects**  
-- Exploring better system design and scalability patterns  
+* Expanding into **full-stack development with React** while keeping backend engineering as my core strength
+* Building **real-world applications across the backend, cloud, and frontend stack**
+* Deepening knowledge of **system design, scalability, and cloud architecture**
+* Strengthening **TypeScript** across both backend and frontend development
+
 
 ---
 
